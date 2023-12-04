@@ -1,5 +1,5 @@
 ### Hi there 👋
-- I'm currently a statistician working on projects in record linkage! ⚡
+- I'm currently a statistician working on projects in the field of record linkage!⚡
 
 <!--
 **egentles/egentles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
