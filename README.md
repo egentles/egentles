@@ -1,5 +1,5 @@
 ### Hi there 👋
-- I'm currently a student working on projects in Bayesian statistics! ⚡
+- I'm currently a statistician working on projects in record linkage! ⚡
 
 <!--
 **egentles/egentles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
